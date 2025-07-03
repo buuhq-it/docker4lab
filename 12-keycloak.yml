@@ -14,7 +14,7 @@ services:
     networks:
       - net-data
     ports:
-      - 9085:8080
+      - 6107:8080
     command: start-dev --verbose
     # depends_on:
     #   - postgresdb

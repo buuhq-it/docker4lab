@@ -20,6 +20,7 @@ oracledb19c
 oracledb12c
 osticket
 tmp
+kafka-data
 
 !db-samples/mongo-sample-dataset/script.sh
 !db-samples/mysql-sample-data/mysql-import-script.sh

@@ -15,7 +15,7 @@ services:
     networks:
       - net-data
     ports:
-      - 9089:80
+      - 6108:80
 
 networks:
   net-data:

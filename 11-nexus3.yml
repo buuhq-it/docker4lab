@@ -8,8 +8,8 @@ services:
     networks:
       - net-data
     ports:
-      - 9087:8081
-      - 9088:9088
+      - 6106:8081
+      #- 9088:9088
       # - 9089:9089
 
 networks:

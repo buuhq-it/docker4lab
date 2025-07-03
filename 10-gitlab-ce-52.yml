@@ -13,8 +13,8 @@ services:
     networks:
       - net-data
     ports:
-      - 9086:80
-      - 6443:443
+      - 6105:80
+      - 11443:443
 
 networks:
   net-data:

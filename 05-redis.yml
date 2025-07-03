@@ -17,7 +17,7 @@ services:
     networks:
       - net-data
     ports:
-      - 9084:8001
+      - 6103:8001
     volumes:
       - ./redisinsight/db:/db
 
